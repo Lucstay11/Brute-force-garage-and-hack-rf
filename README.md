@@ -38,11 +38,13 @@ Have fun with it!!</i>
 Installation
 - `$ sudo git clone https://github.com/Lucstay11/Brute-force-garage-and-hack-rf/`
 <p>give rights to all directories</p>
-- `$ sudo chmod -R 750 Brute-force-garage-and-hack-rf`
-- `$ cd Brute-force-garage-and-hack-rf`
-- `$ bash install.sh`
-- `$ bash rf.sh`
 
+```
+$ sudo chmod -R 750 Brute-force-garage-and-hack-rf
+$ cd Brute-force-garage-and-hack-rf
+$ bash install.sh
+$ bash rf.sh
+```
 
 # 
 More than 30 garage brands can be brute force with my program (provided you have a fixed code)
