@@ -1,4 +1,4 @@
-# <h3 height="100" align="center">Brute-force-garage-and-hack-rf🏡 📡</h3>
+# <h1 align="center">Brute-force-garage-and-hack-rf🏡 📡</h1>
 Script with several tools to brute force garages, hack radio stations and capture and analyze radio signals.
 
 # Brute-force
