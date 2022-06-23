@@ -46,11 +46,11 @@ $ cd Brute-force-garage-and-hack-rf
 $ bash install.sh
 ```
 Run the script
-``
+```
 $ bash rf.sh
 ```
 
-# 
+<h1 align="center">OPTIONS</h1>
 More than 30 garage brands can be brute force with my program (provided you have a fixed code)
 Citing well-known brands such as Hormann, Bosh, Chamberlain
 <p style="color: red;">coucou</p>
