@@ -27,7 +27,15 @@ Have fun with it!!</i>
 
 ##
 
-### Brute-force
+### Features
+- Capture radio signal
+- Replay radio signal
+- Brute force garage door
+- Hack radio and Jam signal
+- Save signals in an encrypted database
+
+
+
 # 
 More than 30 garage brands can be brute force with my program (provided you have a fixed code)
 Citing well-known brands such as Hormann, Bosh, Chamberlain
