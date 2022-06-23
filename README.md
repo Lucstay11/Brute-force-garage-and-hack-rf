@@ -69,9 +69,18 @@ Run the script
 ```
 $ bash rf.sh
 ```
-
 <h1 align="center">OPTIONS</h1>
+<p align="center">
+  <img src=".menu-rf.png">
+</p>
+<p align="left">Capture Signal</p>
+
+
+
+
+
+
 More than 30 garage brands can be brute force with my program (provided you have a fixed code)
 Citing well-known brands such as Hormann, Bosh, Chamberlain
-<p style="color: red;">coucou</p>
+
 
