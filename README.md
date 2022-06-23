@@ -3,7 +3,7 @@ Script with several tools to brute force garages, hack radio stations and captur
 <p align="center">
   <img src="https://img.shields.io/badge/Author-HTR--Tech-green?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Bash and C-green?style=flat-square">
 </p>
 
 # Brute-force
