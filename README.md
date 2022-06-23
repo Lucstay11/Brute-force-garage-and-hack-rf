@@ -72,6 +72,7 @@ $ bash rf.sh
 <h1 align="center">OPTIONS</h1>
 <p align="center">
   <img src=".menu-rf.png">
+  <img src=".setting.png">
 </p>
 <p align="left">Capture Signal</p>
 
