@@ -1,6 +1,10 @@
 # <h1 align="center">Brute-force-garage-and-hack-rf🏡 📡</h1>
 Script with several tools to brute force garages, hack radio stations and capture and analyze radio signals.
-<p><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Brute-force" /></a><a href="https://ko-fi.com/Capture Signal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Capture Signal" /></a></p><br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-HTR--Tech-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Bash-green?style=flat-square">
+</p>
 
 # Brute-force
 # 
