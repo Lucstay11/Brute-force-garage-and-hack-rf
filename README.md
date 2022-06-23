@@ -28,11 +28,12 @@ Have fun with it!!</i>
 ##
 
 ### Features
-- Capture radio signal
-- Replay radio signal
-- Brute force garage door
-- Hack radio and Jam signal
-- Save signals in an encrypted database
+- Capture radio signal 🔊
+- Replay radio signal 🔁
+- Brute force garage door 🔑
+- Hack radio and Jam signal 📻 
+- Save signals in an encrypted database ℹ️ 
+
 
 
 
