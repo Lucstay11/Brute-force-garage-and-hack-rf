@@ -35,7 +35,9 @@ Have fun with it!!</i>
 - `Save signals in an encrypted database ℹ️` 
 
 ### Installation
-- `$ sudo git clone https://github.com/Lucstay11/Brute-force-garage-and-hack-rf/`
+```
+$ sudo git clone https://github.com/Lucstay11/Brute-force-garage-and-hack-rf/
+``
 Give rights to all directories
 ```
 $ sudo chmod -R 750 Brute-force-garage-and-hack-rf
