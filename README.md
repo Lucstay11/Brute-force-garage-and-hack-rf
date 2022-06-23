@@ -1,10 +1,10 @@
 # <h1 align="center">Brute-force-garage-and-hack-rf🏡 📡</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Brute-force-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Brute-Force-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Capture-Signal-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Replay-Signal-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hack-Radio-green?style=for-the-badge">
+ 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Lucstay11-green?style=flat-square">
