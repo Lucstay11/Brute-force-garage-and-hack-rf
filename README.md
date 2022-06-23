@@ -39,6 +39,7 @@ Have fun with it!!</i>
 
 ### Installation
 <h2>This script work only with Raspberry pi</h2>
+
 | Raspberry Model      | Status  |
 | ---------------------|:-------:|
 | Pizero|OK|
