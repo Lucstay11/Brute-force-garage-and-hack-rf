@@ -85,7 +85,7 @@ $ bash rf.sh
 </p>
 More than 30 garage brands can be brute force with my program (provided you have a fixed code)
 Citing well-known brands such as Hormann, Bosh, Chamberlain
-For hard work and security reasons remote keys <b>are only available on request and at an affordable price of $50 (package includes 35 signals of 10.5 GB in size)❗</b>
+For hard work and security reasons <b> remote keys are only available on request and at an affordable price of $50 (package includes 35 signals of 10.5 GB in size)❗</b>
 
 ### Capture Signal ###
 
