@@ -39,6 +39,7 @@ Have fun with it!!</i>
 
 ### Installation
 <h2>This script work only with Raspberry pi</h2>
+<h3>You need an RTL-SDR dongle for capture signal</h3>
 
 | Raspberry Model      | Status  |
 | ---------------------|:-------:|
@@ -74,6 +75,7 @@ $ bash rf.sh
   <img src=".menu-rf.png">
   <img src=".setting.png">
 </p>
+
 ### Brute force Garage ###
 
 ### Capture Signal ###
