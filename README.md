@@ -54,8 +54,6 @@ Have fun with it!!</i>
 | Pi3B+|OK|
 | Pi4|OK|
 
-  <img align="left" src=".menu-rf.png">
-
 ```
 $ sudo git clone https://github.com/Lucstay11/Brute-force-garage-and-hack-rf/
 ```
