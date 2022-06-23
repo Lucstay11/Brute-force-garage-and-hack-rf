@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 Script with several tools to brute force garages, hack radio stations and capture and analyze radio signals.
-# Brute-force
-# 
-More than 30 garage brands can be brute force with my program (provided you have a fixed code)
-Citing well-known brands such as Hormann, Bosh, Chamberlain
-<p style="color: red;">coucou</p>
 
 ##
 
@@ -31,4 +26,10 @@ This project just aims to demonstrate the flaws of the radio devices around us a
 Have fun with it!!</i>
 
 ##
+
+### Brute-force
+# 
+More than 30 garage brands can be brute force with my program (provided you have a fixed code)
+Citing well-known brands such as Hormann, Bosh, Chamberlain
+<p style="color: red;">coucou</p>
 
