@@ -22,13 +22,13 @@ Citing well-known brands such as Hormann, Bosh, Chamberlain
 
 <h3><p align="center">Disclaimer</p></h3>
 
-<i>All actions and/or activities related to this program are <b>your sole responsibility.</b> Misuse of this toolkit may result in criminal prosecution against the individuals in question. Contributors will not be held responsible for any criminal charges brought against people who misuse this toolkit to break the law.
+<i>All actions and/or activities related to this program are <b>your sole responsibility.</b> Misuse of this toolkit may result in <b>criminal prosecution</b> against the individuals in question. <b>Contributors will not be held responsible for any criminal charges brought against people who misuse this toolkit to break the law</b>.
 
-This project just aims to demonstrate the flaws of the radio devices around us and the understanding of radio signals
+This project just aims to demonstrate the flaws of the radio devices around us and <b>the understanding of radio signals</b>
 
-This tool is designed for educational purposes only. Do not try to break the law with anything contained here. If that's your intention, then get the hell out of here!
+  This <b>tool</b> is designed for educational purposes only. Do not try to break the law with anything contained here. If that's your intention, then get the hell out of here!
 
-Have fun with it!</i>
+Have fun with it!!</i>
 
 ##
 
