@@ -34,15 +34,19 @@ Have fun with it!!</i>
 - `Hack radio and Jam signal 📻 `
 - `Save signals in an encrypted database ℹ️` 
 
-###
-Installation
+### Installation
 - `$ sudo git clone https://github.com/Lucstay11/Brute-force-garage-and-hack-rf/`
 <p>give rights to all directories</p>
-
 ```
 $ sudo chmod -R 750 Brute-force-garage-and-hack-rf
+```
+<p>Install the depencie</p>
+```
 $ cd Brute-force-garage-and-hack-rf
 $ bash install.sh
+```
+<p>Run the script</p>
+``
 $ bash rf.sh
 ```
 
