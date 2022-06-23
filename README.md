@@ -38,6 +38,19 @@ Have fun with it!!</i>
 - `Save signals in an encrypted database ℹ️` 
 
 ### Installation
+<h2>This script work only with Raspberry pi</h2>
+| Raspberry Model      | Status  |
+| ---------------------|:-------:|
+| Pizero|OK|
+| PizeroW|OK|
+| PizeroW 2|OK|
+| PiA+|OK|
+| PiB|OK|
+| PiB+|OK|
+| P2B|OK|
+| Pi3B|OK|
+| Pi3B+|OK|
+| Pi4|OK|
 ```
 $ sudo git clone https://github.com/Lucstay11/Brute-force-garage-and-hack-rf/
 ```
