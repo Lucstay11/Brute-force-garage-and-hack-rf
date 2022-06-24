@@ -134,8 +134,8 @@ For hard work and security reasons <b> remote keys are only available on request
   
  <h2 align="center">Database ℹ️🔁</h2>
 <img align="center" src=".database.png">
-<b>Replay your signal captured'</b>
-<b>A sha256 encrypted database that protects your captured signals from prying eyes!</b>
+> <b>Replay your signal captured'</b>
+> <b>A sha256 encrypted database that protects your captured signals from prying eyes!</b>
 <img align="center" height="300" src=".crypted.png">
 
 
