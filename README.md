@@ -61,7 +61,7 @@ $ sudo git clone https://github.com/Lucstay11/Brute-force-garage-and-hack-rf/
 ```
 Give rights to all directories
 ```
-$ sudo chmod -R 750 Brute-force-garage-and-hack-rf
+$ sudo chmod -R 777 Brute-force-garage-and-hack-rf
 ```
 Install the depencies
 ```
