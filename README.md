@@ -114,7 +114,7 @@ For hard work and security reasons <b> remote keys are only available on request
   Add audios to folder **`.song`**
   
   <h2 align="center">Jamm car key of garage key 🔑</h2>
-  <b>Obviously here these are the most used frequencies</b>
+  
   <img align="left"src=".jam.png">
   
   | Model                | Frequency  |
