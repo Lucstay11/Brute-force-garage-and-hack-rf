@@ -114,9 +114,10 @@ For hard work and security reasons <b> remote keys are only available on request
   Add audios to folder **`.song`**
   
   <h2 align="center">Jamm car key of garage key 🔑</h2>
+  <b>Obviously here these are the most used frequencies</b>
   <img align="left"src=".jam.png">
   
-  | Raspberry Model      | Frequency  |
+  | Model      | Frequency  |
   | ---------------------|:-------:|
   | Car US |315 Mhz|
   | Car EU|433.92 Mhz|
@@ -124,8 +125,6 @@ For hard work and security reasons <b> remote keys are only available on request
   | somfy roller shutter|433.43 Mhz|
   | Garage door|433.92 Mhz|
   | Garage door|868.3 Mhz|
-  
-  <b>Obviously here these are the most used frequencies</b>
   
   <h2 align="center">Database ℹ️🔁</h2>
 <img align="center" src=".database.png">
