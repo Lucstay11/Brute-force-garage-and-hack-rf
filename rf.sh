@@ -3120,7 +3120,7 @@ echo -e $violet
 horlogebis
 echo -e $jaune "Send audio: $white $SONG $violet in $white $INPU_FREQ $vert Mhz " | toilet -f term -F border
 echo $date1 $date2 à $date3 > .lastaudio
-sudo ./fm_transmitter -f $INPU_FREQ .song/$SONG
+sudo .fm_transmitter/fm_transmitter -f $INPU_FREQ .song/$SONG
 radio_music
 
 elif [[ $numii != $NUM ]];then
