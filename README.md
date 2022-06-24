@@ -125,13 +125,11 @@ For hard work and security reasons <b> remote keys are only available on request
 | somfy roller shutter|433.43 Mhz|
 | Garage door|433.92 Mhz|
 | Garage door|868.3 Mhz|
-| Car US|315 Mhz|
-| Car EU|433.92 Mhz|
-| Car AS|315 Mhz|
-| somfy roller shutter|433.43 Mhz|
-| Garage door|433.92 Mhz|
-| Garage door|868.3 Mhz|
+
+  ##
   
+  
+  ##
   
   
   <h2 align="center">Database ℹ️🔁</h2>
