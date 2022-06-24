@@ -113,11 +113,11 @@ For hard work and security reasons <b> remote keys are only available on request
   ```
   Add audios to folder **`.song`**
   
-  <h2 align="center">Jamm car key of garage key 🔑</h2>
+  <h2 align="center">Jam car key of garage key 🔑</h2>
   
   <img align="left" src=".jam.png">
   
-  | Model             | Frequency  |
+  | Model                |Frequency|
   | ---------------------|:-------:|
   | Car US |315 Mhz|
   | Car EU|433.92 Mhz|
