@@ -107,7 +107,8 @@ For hard work and security reasons <b> remote keys are only available on request
 
 ### Database ###
 <img align="center" src=".database.png">
-A sha256 encrypted database that protects your captured signals from prying eyes!
+<b>Replay your signal captured'</b>
+<b>A sha256 encrypted database that protects your captured signals from prying eyes!</b>
 <img align="center" height="300" src=".crypted.png">
 
 
