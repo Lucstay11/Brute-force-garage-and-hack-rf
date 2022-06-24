@@ -78,7 +78,7 @@ $ bash rf.sh
   <img src=".setting.png">
 </p>
 
-### Brute force Garage ###
+<h2 align="center">Brute force Garage</h2>
 <p align="center">
   <img src=".menu-rf.png">
 </p>
@@ -90,25 +90,25 @@ For hard work and security reasons <b> remote keys are only available on request
 <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Telegram-Lucstay11-blue?style=for-the-badge&logo=messenger"></a>
 </p>
 
-<h2>Capture Signal 🔊</h2>
+<h2 align="center">Capture Signal 🔊</h2>
 
 <p align="center">
   <img src=".capture.png">
 </p>
-<h3>Capture your signals with the RTL-SDR and record them<h3>
+<h3 align="center">Capture your signals with the RTL-SDR and record them<h3>
   
   **`INFO`** 
   You can also analyze already known band signals to determine their origins such as thermostats etc.
 
-  <h2>Hack radio station 📻</h2>
+  <h2 align="center">Hack radio station 📻</h2>
   <p align="center">
   <img src=".radio.png">
   <img src=".radio-list.png">
   </p>
-  <h2>Jamm car key of garage key 🔑</h2>
+  <h2 align="center">Jamm car key of garage key 🔑</h2>
  <img align="left" src=".jam.png">
 
-  <h2>Database ℹ️🔁</h2>
+  <h2 align="center">Database ℹ️🔁</h2>
 <img align="center" src=".database.png">
 <b>Replay your signal captured'</b>
 <b>A sha256 encrypted database that protects your captured signals from prying eyes!</b>
