@@ -125,7 +125,7 @@ For hard work and security reasons <b> remote keys are only available on request
   
   <h2 align="center">Jam car key of garage key 🔑</h2>
   <b>Obviously here these are the most used frequencies</b>  
-  <img align="left" height="100" src=".jam.png">
+  <img align="left" height="300" src=".jam.png">
   
 | Model      | Frequency  |
 | ---------------------|:-------:|
