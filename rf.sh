@@ -258,7 +258,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 2min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-berner-quickdip-40.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-berner-quickdip-40.iq &
      bash timeur.sh 1
      echo -e "                             $vert Signal finished✅"
      echo
@@ -270,7 +270,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Durée de brut: $white 6min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/berner-quickdip-40.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/berner-quickdip-40.iq &
      bash timeur.sh 5
      echo -e "                             $vert Signal terminer✅"
      echo
@@ -306,7 +306,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e $bleu "🚩 Origin : $rouge Germany     $bleu 📶 frequency: $vert 26.975MHz   $cyan ⏳ Time: $white 25min" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/1-bosh12dip-26-975.iq &
+     sudo sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/1-bosh12dip-26-975.iq &
      bash timeur.sh 24
      echo -e "                             $vert Signal finished✅"
      echo
@@ -326,9 +326,9 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 84 &
-     sudo ./sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/1-bosh12dip-26-975.iq
-     sudo ./sendiq -s 250000 -f "26.995"e6 -t u8 -i .derrow/1-bosh12dip-26-995.iq
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-bosh12dip-40-685.iq
+     sudo sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/1-bosh12dip-26-975.iq
+     sudo sendiq -s 250000 -f "26.995"e6 -t u8 -i .derrow/1-bosh12dip-26-995.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-bosh12dip-40-685.iq
      echo
      printf  "📊 $vert Back to the menu : Clap ENTER" ;printf $white ;read n
      bosh
@@ -366,7 +366,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e $bleu "🚩 Origin : $rouge Germany     $bleu 📶 frequency: $vert 26.995MHz   $cyan ⏳ Time: $white 30min" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "26.995"e6 -t u8 -i .derrow/1-bosh12dip-26-995.iq &
+     sudo sendiq -s 250000 -f "26.995"e6 -t u8 -i .derrow/1-bosh12dip-26-995.iq &
      bash timeur.sh 29
      echo -e "                             $vert Signal finished✅"
      echo
@@ -388,9 +388,9 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 84 &
-     sudo ./sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/1-bosh12dip-26-975.iq
-     sudo ./sendiq -s 250000 -f "26.995"e6 -t u8 -i .derrow/1-bosh12dip-26-995.iq
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-bosh12dip-40-685.iq
+     sudo sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/1-bosh12dip-26-975.iq
+     sudo sendiq -s 250000 -f "26.995"e6 -t u8 -i .derrow/1-bosh12dip-26-995.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-bosh12dip-40-685.iq
      echo
      printf  "📊 $vert Back to the menu : Press ENTER" ;printf $white ;read n
      bosh2
@@ -427,7 +427,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e $bleu "🚩 Origin : $rouge Germany     $bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 29min" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-bosh12dip-40-685.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-bosh12dip-40-685.iq &
      bash timeur.sh 29
      echo -e "                             $vert Signal finished✅"
      echo
@@ -449,9 +449,9 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 84 &
-     sudo ./sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/1-bosh12dip-26-975.iq
-     sudo ./sendiq -s 250000 -f "26.995"e6 -t u8 -i .derrow/1-bosh12dip-26-995.iq
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-bosh12dip-40-685.iq
+     sudo sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/1-bosh12dip-26-975.iq
+     sudo sendiq -s 250000 -f "26.995"e6 -t u8 -i .derrow/1-bosh12dip-26-995.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-bosh12dip-40-685.iq
      echo
      printf  "📊 $vert Back to the menu: Press ENTER" ;printf $white ;read n
      bosh3
@@ -493,7 +493,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 4min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-CDS-40.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-CDS-40.iq &
      bash timeur.sh 4
      cds
      echo -e "                             $vert Signal finished✅"
@@ -504,7 +504,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequence: $vert 40.685MHz   $cyan ⏳ Durée de brut: $white 12min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/CDS-40.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/CDS-40.iq &
      bash timeur.sh 12
      echo -e "                             $vert Signal terminer✅"
      echo
@@ -542,7 +542,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 2min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-came-top-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-came-top-433.iq &
      bash timeur.sh 2
      echo -e "                             $vert Signal finished✅"
      echo
@@ -554,7 +554,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 10min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/came-top-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/came-top-433.iq &
      bash timeur.sh 9
      echo -e "                             $vert Signal finished✅"
      echo
@@ -590,7 +590,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 27.195MHz   $cyan ⏳ Time: $white 2min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "27.195"e6 -t u8 -i .derrow/1-cardin-quickdip.iq &
+     sudo sendiq -s 250000 -f "27.195"e6 -t u8 -i .derrow/1-cardin-quickdip.iq &
      bash timeur.sh 4
      echo -e "                             $vert Signal finished✅"
      echo
@@ -602,7 +602,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 27.195MHz   $cyan ⏳ Time: $white 16min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "27.195"e6 -t u8 -i .derrow/cardin-quickdip-40.iq &
+     sudo sendiq -s 250000 -f "27.195"e6 -t u8 -i .derrow/cardin-quickdip-40.iq &
      bash timeur.sh 16
      echo -e "                             $vert Signal finished✅"
      echo
@@ -623,7 +623,7 @@ case $n in
      horlogebis
      bash timeur.sh 4 &
      #cardin 27
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-cardin-quick-433.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-cardin-quick-433.iq
      bash timeur.sh 8
      echo -e "                             $vert Signal finished✅"
      echo
@@ -667,7 +667,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 4min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-cardin-quick-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-cardin-quick-433.iq &
      bash timeur.sh 4
      echo -e "                             $vert Signal finished✅"
      echo
@@ -679,7 +679,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 16min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/cardin-quick-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/cardin-quick-433.iq &
      bash timeur.sh 16
      echo -e "                             $vert Signal finished✅"
      echo
@@ -700,7 +700,7 @@ case $n in
      horlogebis
      bash timeur.sh 4 &
      #cardin 27
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-cardin-quick-433.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-cardin-quick-433.iq
 
      echo -e "                             $vert Signal finished✅"
      echo
@@ -743,7 +743,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 27.195MHz   $cyan ⏳ Time: $white 3min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "27.195"e6 -t u8 -i .derrow/1-chamberlain-quick-27.iq & 
+     sudo sendiq -s 250000 -f "27.195"e6 -t u8 -i .derrow/1-chamberlain-quick-27.iq & 
      bash timeur.sh 3
      echo -e "                             $vert Signal finished✅"
      echo
@@ -755,7 +755,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 27.195MHz   $cyan ⏳ Time: $white 9min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "27.195"e6 -t u8 -i .derrow/chamberlain-quick-27.iq &
+     sudo sendiq -s 250000 -f "27.195"e6 -t u8 -i .derrow/chamberlain-quick-27.iq &
      bash timeur.sh 9
      echo -e "                             $vert Signal finished✅"
      echo
@@ -793,7 +793,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 8min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-dickert-40FM.iq & 
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-dickert-40FM.iq & 
      bash timeur.sh 8
      echo -e "                             $vert Signal finished✅"
      echo
@@ -805,7 +805,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 24min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/dickert-40FM.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/dickert-40FM.iq &
      bash timeur.sh 24
      echo -e "                             $vert Signal finished✅"
      echo
@@ -828,10 +828,10 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 32 &
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/dickert-40FM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-quick-433.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-433L.iq
-     sudo ./sendiq -s 250000 -f "868.3"e6 -t u8 -i .derrow/1-dickert-868.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/dickert-40FM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-quick-433.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-433L.iq
+     sudo sendiq -s 250000 -f "868.3"e6 -t u8 -i .derrow/1-dickert-868.iq
      echo
      printf  "📊 $vert Back to the menu : Press ENTER" ;printf $white ;read n
      dickert
@@ -873,7 +873,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 9min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-quick-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-quick-433.iq &
      bash timeur.sh 9
      echo -e "                             $vert Signal finished✅"
      echo
@@ -885,7 +885,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 25min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/dickert-quick-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/dickert-quick-433.iq &
      bash timeur.sh 25
      echo -e "                             $vert Signal finished✅"
      echo
@@ -908,10 +908,10 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 32 &
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/dickert-40FM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-quick-433.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-433L.iq
-     sudo ./sendiq -s 250000 -f "868.3"e6 -t u8 -i .derrow/1-dickert-868.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/dickert-40FM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-quick-433.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-433L.iq
+     sudo sendiq -s 250000 -f "868.3"e6 -t u8 -i .derrow/1-dickert-868.iq
      echo
      printf  "📊 $vert Back to the menu : Press ENTER" ;printf $white ;read n
      dickert3
@@ -953,7 +953,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 8min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-433L.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-433L.iq &
      bash timeur.sh 8
      echo -e "                             $vert Signal finished✅"
      echo
@@ -965,7 +965,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 25min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/dickert-433L.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/dickert-433L.iq &
      bash timeur.sh 25
      echo -e "                             $vert Signal finished✅"
      echo
@@ -988,10 +988,10 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 32 &
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/dickert-40FM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-quick-433.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-433L.iq
-     sudo ./sendiq -s 250000 -f "868.3"e6 -t u8 -i .derrow/1-dickert-868.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/dickert-40FM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-quick-433.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-433L.iq
+     sudo sendiq -s 250000 -f "868.3"e6 -t u8 -i .derrow/1-dickert-868.iq
      echo
      printf  "📊 $vert Back to the menu : Press ENTER" ;printf $white ;read n
      dickert4
@@ -1029,7 +1029,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 868.3MHz   $cyan ⏳ Time: $white 8min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "868.3"e6 -t u8 -i .derrow/1-dickert-868.iq &
+     sudo sendiq -s 250000 -f "868.3"e6 -t u8 -i .derrow/1-dickert-868.iq &
      bash timeur.sh 8
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1050,10 +1050,10 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 32 &
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/dickert-40FM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-quick-433.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-433L.iq
-     sudo ./sendiq -s 250000 -f "868.3"e6 -t u8 -i .derrow/1-dickert-868.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/dickert-40FM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-quick-433.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-dickert-433L.iq
+     sudo sendiq -s 250000 -f "868.3"e6 -t u8 -i .derrow/1-dickert-868.iq
      echo
      printf  "📊 $vert Back to the menu : Press ENTER" ;printf $white ;read n
      dickert5
@@ -1090,7 +1090,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 26.995MHz   $cyan ⏳ Time: $white 8min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "26.995"e6 -t u8 -i .derrow/1-einhell-quick-27.iq &
+     sudo sendiq -s 250000 -f "26.995"e6 -t u8 -i .derrow/1-einhell-quick-27.iq &
      bash timeur.sh 8
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1122,7 +1122,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 27.095MHz   $cyan ⏳ Time: $white 8min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "27.095"e6 -t u8 -i .derrow/1-endress-27.iq &
+     sudo sendiq -s 250000 -f "27.095"e6 -t u8 -i .derrow/1-endress-27.iq &
      bash timeur.sh 8
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1158,7 +1158,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 26.975MHz   $cyan ⏳ Time: $white 8min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/1-hörmann-27.iq &
+     sudo sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/1-hörmann-27.iq &
      bash timeur.sh 8
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1170,7 +1170,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 26.975MHz   $cyan ⏳ Time: $white 26min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/hörmann-27.iq &
+     sudo sendiq -s 250000 -f "26.975"e6 -t u8 -i .derrow/hörmann-27.iq &
      bash timeur.sh 25
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1202,7 +1202,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 27.015MHz   $cyan ⏳ Time: $white 9min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "27.015"e6 -t u8 -i .derrow/1-kauferle-27.iq &
+     sudo sendiq -s 250000 -f "27.015"e6 -t u8 -i .derrow/1-kauferle-27.iq &
      bash timeur.sh 9
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1224,9 +1224,9 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 22 &
-     sudo ./sendiq -s 250000 -f "27.015"e6 -t u8 -i .derrow/1-kauferle-27.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-kauferle-433.iq
-     #sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-kauferle-433.iq &
+     sudo sendiq -s 250000 -f "27.015"e6 -t u8 -i .derrow/1-kauferle-27.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-kauferle-433.iq
+     #sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-kauferle-433.iq &
      echo
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1264,7 +1264,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 6min $jaune2 1 Boutton" | toilet -f term -F border
-     #sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-kauferle-433.iq &
+     #sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-kauferle-433.iq &
      bash timeur.sh 6
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1285,9 +1285,9 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 22 &
-     sudo ./sendiq -s 250000 -f "27.015"e6 -t u8 -i .derrow/1-kauferle-27.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-kauferle-433.iq
-     #sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-kauferle-433.iq &
+     sudo sendiq -s 250000 -f "27.015"e6 -t u8 -i .derrow/1-kauferle-27.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-kauferle-433.iq
+     #sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-kauferle-433.iq &
      echo
      echo -e "                             $vert Signal finished✅"                                                                                                 echo
      printf  "📊 $vert Back au menu : Tappe ENTER" ;printf $white ;read n
@@ -1330,7 +1330,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 6min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-kauferle-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-kauferle-433.iq &
      bash timeur.sh 6
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1342,7 +1342,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 20min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/kauferle-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/kauferle-433.iq &
      bash timeur.sh 20
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1364,9 +1364,9 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 22 &
-     sudo ./sendiq -s 250000 -f "27.015"e6 -t u8 -i .derrow/1-kauferle-27.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-kauferle-433.iq
-     #sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-kauferle-433.iq &
+     sudo sendiq -s 250000 -f "27.015"e6 -t u8 -i .derrow/1-kauferle-27.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-kauferle-433.iq
+     #sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-kauferle-433.iq &
      echo
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1404,7 +1404,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 27.045MHz   $cyan ⏳ Time: $white 9min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "27.045"e6 -t u8 -i .derrow/1-marantec-27.iq &
+     sudo sendiq -s 250000 -f "27.045"e6 -t u8 -i .derrow/1-marantec-27.iq &
      bash timeur.sh 9
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1436,7 +1436,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 26.875MHz   $cyan ⏳ Time: $white 9min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq &
+     sudo sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq &
      bash timeur.sh 9
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1460,11 +1460,11 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 39 &
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq
-     sudo ./sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq
-     sudo ./sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq
-     sudo ./sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq
-     sudo ./sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq
+     sudo sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq
+     sudo sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq
+     sudo sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq
+     sudo sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq
      echo
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1503,7 +1503,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 27.120MHz   $cyan ⏳ Time: $white 9min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq &
+     sudo sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq &
      bash timeur.sh 9
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1527,11 +1527,11 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 39 &
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq
-     sudo ./sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq
-     sudo ./sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq
-     sudo ./sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq
-     sudo ./sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq
+     sudo sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq
+     sudo sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq
+     sudo sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq
+     sudo sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq
      echo
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1570,7 +1570,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 30.875MHz   $cyan ⏳ Time: $white 9min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq &
+     sudo sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq &
      bash timeur.sh 9
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1594,11 +1594,11 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 39 &
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq
-     sudo ./sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq
-     sudo ./sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq
-     sudo ./sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq
-     sudo ./sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq
+     sudo sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq
+     sudo sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq
+     sudo sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq
+     sudo sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq
      echo
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1637,7 +1637,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 30.9MHz   $cyan ⏳ Time: $white 9min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq &
+     sudo sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq &
      bash timeur.sh 9
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1661,11 +1661,11 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 39 &
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq
-     sudo ./sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq
-     sudo ./sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq
-     sudo ./sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq
-     sudo ./sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq
+     sudo sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq
+     sudo sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq
+     sudo sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq
+     sudo sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq
      echo
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1709,7 +1709,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 4min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq &
      bash timeur.sh 4
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1721,7 +1721,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 15min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/nice-flo-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/nice-flo-433.iq &
      bash timeur.sh 15
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1745,11 +1745,11 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 39 &
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq
-     sudo ./sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq
-     sudo ./sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq
-     sudo ./sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq
-     sudo ./sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-nice-flo-433.iq
+     sudo sendiq -s 250000 -f "26.875"e6 -t u8 -i .derrow/1-nice-26.iq
+     sudo sendiq -s 250000 -f "27.120"e6 -t u8 -i .derrow/1-nice-27.iq
+     sudo sendiq -s 250000 -f "30.875"e6 -t u8 -i .derrow/1-nice-30.iq
+     sudo sendiq -s 250000 -f "30.900"e6 -t u8 -i .derrow/1-nice-30-9.iq
      echo
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1793,7 +1793,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 4min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-rademacher-40.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-rademacher-40.iq &
      bash timeur.sh 4
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1805,7 +1805,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 12min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/rademacher-40.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/rademacher-40.iq &
      bash timeur.sh 12
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1838,7 +1838,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 4min $jaune2 Boutton A" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SA-40AM.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SA-40AM.iq &
      bash timeur.sh 4
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1861,10 +1861,10 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 18 &
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SA-40AM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SA-433AM.iq
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SF-40FM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SF-433FM.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SA-40AM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SA-433AM.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SF-40FM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SF-433FM.iq
      echo -e "                             $vert Signal finished✅"
      echo
      printf  "📊 $vert Back au menu : Tappe ENTER" ;printf $white ;read n
@@ -1902,7 +1902,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 4min $jaune2 Boutton A" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SA-433AM.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SA-433AM.iq &
      bash timeur.sh 4
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1925,10 +1925,10 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 18 &
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SA-40AM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SA-433AM.iq
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SF-40FM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SF-433FM.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SA-40AM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SA-433AM.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SF-40FM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SF-433FM.iq
      echo -e "                             $vert Signal finished✅"
      echo
      printf  "📊 $vert Back au menu : Tappe ENTER" ;printf $white ;read n
@@ -1966,7 +1966,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 4min $jaune2 Boutton A" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SF-40FM.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SF-40FM.iq &
      bash timeur.sh 4
      echo -e "                             $vert Signal finished✅"
      echo
@@ -1989,10 +1989,10 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 18 &
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SA-40AM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SA-433AM.iq
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SF-40FM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SF-433FM.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SA-40AM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SA-433AM.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SF-40FM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SF-433FM.iq
      echo -e "                             $vert Signal finished✅"
      echo
      printf  "📊 $vert Back au menu : Tappe ENTER" ;printf $white ;read n
@@ -2030,7 +2030,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 4min $jaune2 Boutton A" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SF-433FM.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SF-433FM.iq &
      bash timeur.sh 4
      echo -e "                             $vert Signal finished✅"
      echo
@@ -2052,10 +2052,10 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 18 &
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SA-40AM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SA-433AM.iq
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SF-40FM.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SF-433FM.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SA-40AM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SA-433AM.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/Ruku-SF-40FM.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/Ruku-SF-433FM.iq
      echo -e "                             $vert Signal finished✅"
      echo
      printf  "📊 $vert Back au menu : Tappe ENTER" ;printf $white ;read n
@@ -2100,7 +2100,7 @@ case $n in
      if [[ $nuu = 1 ]];then
      echo -e $jaune
      horlogebis                                                                                                                                                     echo -e "$bleu 📶 frequency: $vert 26.985MHz   $cyan ⏳ Time: $white 1min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "26.985"e6 -t u8 -i .derrow/1-tedsen-27.iq &
+     sudo sendiq -s 250000 -f "26.985"e6 -t u8 -i .derrow/1-tedsen-27.iq &
      bash timeur.sh 1
      echo -e "                             $vert Signal finished✅"
      echo
@@ -2112,7 +2112,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 26.985MHz   $cyan ⏳ Time: $white 4min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "26.985"e6 -t u8 -i .derrow/tedsen-27.iq &
+     sudo sendiq -s 250000 -f "26.985"e6 -t u8 -i .derrow/tedsen-27.iq &
      bash timeur.sh 4
      echo -e "                             $vert Signal finished✅"
      echo
@@ -2135,9 +2135,9 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 15 &
-     sudo ./sendiq -s 250000 -f "26.985"e6 -t u8 -i .derrow/1-tedsen-27.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-433.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-quick-433.iq
+     sudo sendiq -s 250000 -f "26.985"e6 -t u8 -i .derrow/1-tedsen-27.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-433.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-quick-433.iq
      echo -e "                             $vert Signal finished✅"
      echo
      printf  "📊 $vert Back to the menu : Press ENTER" ;printf $white ;read n
@@ -2173,7 +2173,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 10min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-433.iq &
      bash timeur.sh 10
      echo -e "                             $vert Signal finished✅"
      echo
@@ -2195,9 +2195,9 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 15 &
-     sudo ./sendiq -s 250000 -f "26.985"e6 -t u8 -i .derrow/1-tedsen-27.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-433.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-quick-433.iq
+     sudo sendiq -s 250000 -f "26.985"e6 -t u8 -i .derrow/1-tedsen-27.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-433.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-quick-433.iq
      echo -e "                             $vert Signal finished✅"
      echo
      printf  "📊 $vert Back to the menu : Press ENTER" ;printf $white ;read n
@@ -2234,7 +2234,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 30sec $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-quick-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-quick-433.iq &
      bash timeur.sh 0
      echo -e "                             $vert Signal finished✅"
      echo
@@ -2256,9 +2256,9 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 15 &
-     sudo ./sendiq -s 250000 -f "26.985"e6 -t u8 -i .derrow/1-tedsen-27.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-433.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-quick-433.iq
+     sudo sendiq -s 250000 -f "26.985"e6 -t u8 -i .derrow/1-tedsen-27.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-433.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tedsen-quick-433.iq
      echo -e "                             $vert Signal finished✅"
      echo
      printf  "📊 $vert Back to the menu : Press ENTER" ;printf $white ;read n
@@ -2300,7 +2300,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 6min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/tormatic-40.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/tormatic-40.iq &
      bash timeur.sh 6
      echo -e "                             $vert Signal finished✅"
      echo
@@ -2312,7 +2312,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 40.685MHz   $cyan ⏳ Time: $white 18min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-tormatic-40.iq &
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/1-tormatic-40.iq &
      bash timeur.sh 18
      echo -e "                             $vert Signal finished✅"
      echo
@@ -2334,8 +2334,8 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 9 &
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/tormatic-40.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tormatic-433.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/tormatic-40.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tormatic-433.iq
      echo -e "                             $vert Signal finished✅"
      echo
      printf  "📊 $vert Back to the menu : Press ENTER" ;printf $white ;read n
@@ -2378,7 +2378,7 @@ case $n in
      echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 3min $jaune2 1 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tormatic-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tormatic-433.iq &
      bash timeur.sh 3
      echo -e "                             $vert Signal finished✅"
      echo
@@ -2389,7 +2389,7 @@ case $n in
      elif [[ $nuu = 2 ]];then                                                                                                                                       echo -e $jaune
      horlogebis
      echo -e "$bleu 📶 frequency: $vert 433.92MHz   $cyan ⏳ Time: $white 15min $jaune2 3 Boutton" | toilet -f term -F border
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-tormatic-433.iq &
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/1-tormatic-433.iq &
      bash timeur.sh 15
      echo -e "                             $vert Signal finished✅"
      echo
@@ -2411,8 +2411,8 @@ case $n in
      horlogebis
      echo -e $white
      bash timeur.sh 9 &
-     sudo ./sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/tormatic-40.iq
-     sudo ./sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tormatic-433.iq
+     sudo sendiq -s 250000 -f "40.685"e6 -t u8 -i .derrow/tormatic-40.iq
+     sudo sendiq -s 250000 -f "433.92"e6 -t u8 -i .derrow/tormatic-433.iq
      echo -e "                             $vert Signal finished✅"
      echo
      printf  "📊 $vert Back to the menu : Press ENTER" ;printf $white ;read n
@@ -2988,7 +2988,7 @@ sleep 1
 ls .Capture | grep $nom | grep -o "^[0-9]\+"
 echo -e $vert
 horlogebis
-sudo ./sendiq -s 250000 -f "$frequencce"e6 -t u8 -i .Capture/$nom-$frequencce.iq
+sudo sendiq -s 250000 -f "$frequencce"e6 -t u8 -i .Capture/$nom-$frequencce.iq
 sleep 1
 echo
 echo -e "                           $vert Signal finished✅️"
@@ -2999,7 +2999,7 @@ until [[ $r = "yes" ]]
 do
   read -p "Press ENTER to send the signal :" r
   echo -e $blanc
- sudo ./sendiq -s 250000 -f "$frequencce"e6 -t u8 -i .Capture/$nom-$frequencce.iq
+ sudo sendiq -s 250000 -f "$frequencce"e6 -t u8 -i .Capture/$nom-$frequencce.iq
  echo
  echo -e "                      $vert Signal finished✅️"
  echo
@@ -3076,7 +3076,7 @@ echo -e $violet
 horlogebis
 echo -e $cyan "Morse signals are sent which will jitter the frequency ℹ️️"
 echo -e $jaune "Frequency tremor $white $INPU_FREQ $vert Mhz" | toilet -f term -F border
-sudo src/./piopera F5OEO 1 "$INPU_FREQ"e6
+sudo src/piopera F5OEO 1 "$INPU_FREQ"e6
 radio_jam
 
 elif [[ $numis == 3 ]];then
@@ -3120,7 +3120,7 @@ echo -e $violet
 horlogebis
 echo -e $jaune "Send audio: $white $SONG $violet in $white $INPU_FREQ $vert Mhz " | toilet -f term -F border
 echo $date1 $date2 à $date3 > .lastaudio
-sudo src/./pifmrds -freq $INPU_FREQ -audio .song/$SONG
+sudo src/pifmrds -freq $INPU_FREQ -audio .song/$SONG
 radio_music
 
 elif [[ $numii != $NUM ]];then
