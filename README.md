@@ -116,9 +116,9 @@ For hard work and security reasons <b> remote keys are only available on request
   <h2 align="center">Jamm car key of garage key 🔑</h2>
   <img align="left"src=".jam.png">
   
-  | Raspberry Model      | Status  |
+  | Raspberry Model      | Frequency  |
   | ---------------------|:-------:|
-  | Pizero|OK|
+  | Auto|433.89/433.92|
   | PizeroW|OK|
   | PizeroW 2|OK|
   | PiA+|OK|
