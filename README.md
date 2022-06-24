@@ -39,7 +39,7 @@ Have fun with it!!</i>
 
 ### Installation
 <h2>This script work only with Raspberry pi</h2>
-<h3>You need an RTL-SDR dongle for capture signal</h3>
+<h3>You need an RTL-SDR USB dongle for capture signal</h3>
 
 <img align="left" src=".menu-rf.png">
 
@@ -89,7 +89,7 @@ Citing well-known brands such as Hormann, Bosh, Chamberlain ...Etc
 ```
 
 For hard work and security reasons <b> remote keys are only available on request and at an affordable price of $50 (package includes 35 signals of 10.5 GB in size)❗</b>
-<h2>Concact my on discord or telegram to receive captures from remote controls</h2>
+<h2>Concact my on discord to receive captures from remote controls</h2>
 <p align="center">
 <a href="https://discord.gg/ZGfGVmaC" target="_blank"><img src="https://img.shields.io/badge/Discord-Lucstay11-mallow?style=for-the-badge&logo=discord">
 </p>
@@ -99,7 +99,7 @@ For hard work and security reasons <b> remote keys are only available on request
 <p align="center">
   <img src=".capture.png">
 </p>
-<h3 align="center">Capture your signals with the RTL-SDR and record them<h3>
+<h3 align="center">Capture your signals with the RTL-SDR USB dongle and record them<h3>
   Several options are available to you
   
    - `Directly replay the captured signal (even in a loop!)` 
