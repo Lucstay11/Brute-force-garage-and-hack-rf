@@ -114,8 +114,21 @@ For hard work and security reasons <b> remote keys are only available on request
   Add audios to folder **`.song`**
   
   <h2 align="center">Jamm car key of garage key 🔑</h2>
-  <img src=".jam.png">
-
+  <img align="left"src=".jam.png">
+  
+  | Raspberry Model      | Status  |
+  | ---------------------|:-------:|
+  | Pizero|OK|
+  | PizeroW|OK|
+  | PizeroW 2|OK|
+  | PiA+|OK|
+  | PiB|OK|
+  | PiB+|OK|
+  | P2B|OK|
+  | Pi3B|OK|
+  | Pi3B+|OK|
+  | Pi4|OK|
+  
   <h2 align="center">Database ℹ️🔁</h2>
 <img align="center" src=".database.png">
 <b>Replay your signal captured'</b>
