@@ -140,6 +140,13 @@ For hard work and security reasons <b> remote keys are only available on request
   
 <img align="center" height="300" src=".crypted.png">
 
+  
+  ### Special Thanks :
+
+- [**Derrow**](https://www.ifoedit.com/)
+- [**F50EO**](https://github.com/F5OEO/rpitx)
+- [**markondej**](https://github.com/markondej/fm_transmitter)
+
 
 
 
