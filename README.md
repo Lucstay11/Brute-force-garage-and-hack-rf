@@ -105,6 +105,13 @@ For hard work and security reasons <b> remote keys are only available on request
   <img src=".radio.png">
   <img src=".radio-list.png">
   </p>
+  <p>The audio files are in wav so be sure to convert your mp3/mp4 to wav</p>
+  
+  ```
+  $ sudo apt-get install sox libsox-fmt-mp3
+  $ sox example.mp3 -r 22050 -c 1 -b 16 -t wav converted-example.wav
+  ```
+  <b></b>
   <h2 align="center">Jamm car key of garage key 🔑</h2>
  <img align="left" src=".jam.png">
 
