@@ -72,6 +72,7 @@ Run the script
 ```
 $ bash rf.sh
 ```
+### For an optimal configuration use an ssh connection to connect with your phone and control the Raspberry Pi ###
 <h1 align="center">OPTIONS</h1>
 <p align="center">
   <img src=".menu-rf.png">
