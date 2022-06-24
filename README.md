@@ -41,7 +41,7 @@ Have fun with it!!</i>
 <h2>This script work only with Raspberry pi</h2>
 <h3>You need an RTL-SDR USB dongle for capture signal</h3>
 
-<img align="left" src=".menu-rf.png">
+<img align="left" src=".raspi.jpg">
 
 | Raspberry Model      | Satus  |
 | ---------------------|:-------:|
