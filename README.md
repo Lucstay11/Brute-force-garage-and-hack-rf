@@ -43,7 +43,7 @@ Have fun with it!!</i>
 
 <img align="left" src=".menu-rf.png">
 
-| Raspberry Model      | Status  |
+| Model      | Frequency  |
 | ---------------------|:-------:|
 | Pizero|OK|
 | PizeroW|OK|
