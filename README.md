@@ -90,7 +90,7 @@ For hard work and security reasons <b> remote keys are only available on request
 <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Telegram-Lucstay11-blue?style=for-the-badge&logo=messenger"></a>
 </p>
 
-### Capture Signal ###
+<h2>Capture Signal</h2>
 
 <p align="center">
   <img src=".capture.png">
@@ -100,15 +100,15 @@ For hard work and security reasons <b> remote keys are only available on request
   **`INFO`** 
   You can also analyze already known band signals to determine their origins such as thermostats etc.
 
-### Hack radio station ###
+  <h2>Hack radio station</h2>
 
   <img align="left" src=".radio.png">
   <img align="right" src=".radio-list.png">
 
-### Jamm car key of garage key ###
+  <h2>Jamm car key of garage key</h2>
  <img align="left" src=".jam.png">
 
-### Database ###
+  <h2>Database</h2>
 <img align="center" src=".database.png">
 <b>Replay your signal captured'</b>
 <b>A sha256 encrypted database that protects your captured signals from prying eyes!</b>
