@@ -95,8 +95,8 @@ For hard work and security reasons <b> remote keys are only available on request
 <p align="center">
   <img src=".capture.png">
 </p>
-<h2>Capture your signals with the RTL-SDR and record them<h2>
-  <b>[INFO]</b> You can also analyze already known band signals to determine their origins such as thermostats etc.
+<h3>Capture your signals with the RTL-SDR and record them<h3>
+  `**[INFO]**` You can also analyze already known band signals to determine their origins such as thermostats etc.
 
 ### Hack radio station ###
 
