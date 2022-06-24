@@ -117,7 +117,7 @@ For hard work and security reasons <b> remote keys are only available on request
   
   <img align="left" src=".jam.png">
   
-  | Model                | Frequency  |
+  | Model             | Frequency  |
   | ---------------------|:-------:|
   | Car US |315 Mhz|
   | Car EU|433.92 Mhz|
