@@ -112,9 +112,9 @@ For hard work and security reasons <b> remote keys are only available on request
   $ sox example.mp3 -r 22050 -c 1 -b 16 -t wav converted-example.wav
   ```
   Add audios to folder **`.song`**
-  <b></b>
+  
   <h2 align="center">Jamm car key of garage key 🔑</h2>
- <img align="left" src=".jam.png">
+  <img src=".jam.png">
 
   <h2 align="center">Database ℹ️🔁</h2>
 <img align="center" src=".database.png">
