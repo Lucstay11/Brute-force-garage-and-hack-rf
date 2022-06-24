@@ -43,7 +43,7 @@ Have fun with it!!</i>
 
 <img align="left" src=".menu-rf.png">
 
-| Model      | Frequency  |
+| Raspberry Model      | Satus  |
 | ---------------------|:-------:|
 | Pizero|OK|
 | PizeroW|OK|
@@ -117,7 +117,7 @@ For hard work and security reasons <b> remote keys are only available on request
   
   <img align="left" src=".jam.png">
   
-  | Raspberry Model      | Status  |
+| Model      | Frequency  |
 | ---------------------|:-------:|
 | Pizero|OK|
 | PizeroW|OK|
