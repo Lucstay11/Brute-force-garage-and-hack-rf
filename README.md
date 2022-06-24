@@ -125,6 +125,7 @@ For hard work and security reasons <b> remote keys are only available on request
   | Garage door|433.92 Mhz|
   | Garage door|868.3 Mhz|
   <b>Obviously here these are the most used frequencies</b>
+  
   <h2 align="center">Database ℹ️🔁</h2>
 <img align="center" src=".database.png">
 <b>Replay your signal captured'</b>
