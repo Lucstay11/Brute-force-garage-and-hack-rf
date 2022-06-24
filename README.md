@@ -89,7 +89,7 @@ Citing well-known brands such as Hormann, Bosh, Chamberlain ...Etc
 ```
 
 For hard work and security reasons <b> remote keys are only available on request and at an affordable price of $50 (package includes 35 signals of 10.5 GB in size)❗</b>
-<h2>Concact my on discord or telegram </h2>
+<h2>Concact my on discord or telegram to receive captures from remote controls</h2>
 <a href="https://discord.gg/0102040604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0102040604" height="30" width="40" /></a>
 <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Telegram-Lucstay11-blue?style=for-the-badge&logo=messenger"></a>
 </p>
