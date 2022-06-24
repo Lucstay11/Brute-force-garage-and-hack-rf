@@ -96,6 +96,10 @@ For hard work and security reasons <b> remote keys are only available on request
   <img src=".capture.png">
 </p>
 <h3 align="center">Capture your signals with the RTL-SDR and record them<h3>
+  Several options are available to you
+  ° ```Directly replay the captured signal (even in a loop!)``` 
+  ° ```Just save it in the database```
+ 
   
   **`INFO`** 
   You can also analyze already known band signals to determine their origins such as thermostats etc.
