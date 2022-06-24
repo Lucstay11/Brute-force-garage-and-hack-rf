@@ -1,0 +1,10 @@
+
+Exemple : rtl_sdr -s 250000 -g 45 -f "$frequence"e6 record.iq
+
+OPTIONS
+-s samplerate (default: 2048000 Hz)
+-d device_index (default: 0)
+-t enable Elonics E4000 tuner benchmark]
+-p enable PPM error measurement
+-b output_block_size (default: 16 * 16384)
+-S force sync output (default: async)
