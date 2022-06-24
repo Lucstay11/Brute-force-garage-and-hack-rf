@@ -111,7 +111,7 @@ For hard work and security reasons <b> remote keys are only available on request
   $ sudo apt-get install sox libsox-fmt-mp3
   $ sox example.mp3 -r 22050 -c 1 -b 16 -t wav converted-example.wav
   ```
-  <p>Ajouter les audios dans le dossier **`.song`**</p>
+  Add audios to folder **`.song`**
   <b></b>
   <h2 align="center">Jamm car key of garage key 🔑</h2>
  <img align="left" src=".jam.png">
