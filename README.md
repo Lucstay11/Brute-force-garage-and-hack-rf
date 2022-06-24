@@ -97,8 +97,8 @@ For hard work and security reasons <b> remote keys are only available on request
 </p>
 <h3 align="center">Capture your signals with the RTL-SDR and record them<h3>
   Several options are available to you
-  ° ```Directly replay the captured signal (even in a loop!)``` 
-  ° ```Just save it in the database```
+  ° **`Directly replay the captured signal (even in a loop!)`** 
+  ° **`Just save it in the database`**
  
   
   **`INFO`** 
