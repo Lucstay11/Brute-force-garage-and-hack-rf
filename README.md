@@ -118,10 +118,10 @@ For hard work and security reasons <b> remote keys are only available on request
   
   | Raspberry Model      | Frequency  |
   | ---------------------|:-------:|
-  | Auto|433.89/433.92|
-  | PizeroW|OK|
-  | PizeroW 2|OK|
-  | PiA+|OK|
+  | Car US |315 Mhz|
+  | Car EU|433.92 Mhz|
+  | Car AS |315 Mhz|
+  | somfy roller shutter|433.43 Mhz|
   | PiB|OK|
   | PiB+|OK|
   | P2B|OK|
