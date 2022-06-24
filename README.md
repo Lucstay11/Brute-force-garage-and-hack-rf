@@ -156,7 +156,7 @@ For hard work and security reasons <b> remote keys are only available on request
 <p align="left">
   <a href="https://github.com/Lucstay11" target="_blank"><img src="https://img.shields.io/badge/Github-Lucstay11-green?style=for-the-badge&logo=github"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-Lucstay11-blue?style=for-the-badge&logo=messenger"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-Lucstay11-pink?style=for-the-badge&logo=messenger"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-Lucstay11-pink?style=for-the-badge&logo=telegram"></a>
 </p>
 
 
