@@ -3076,7 +3076,7 @@ echo -e $violet
 horlogebis
 echo -e $cyan "Morse signals are sent which will jitter the frequency ℹ️️"
 echo -e $jaune "Frequency tremor $white $INPU_FREQ $vert Mhz" | toilet -f term -F border
-sudo src/piopera F5OEO 1 "$INPU_FREQ"e6
+sudo piopera F5OEO 1 "$INPU_FREQ"e6
 radio_jam
 
 elif [[ $numis == 3 ]];then
@@ -3120,7 +3120,7 @@ echo -e $violet
 horlogebis
 echo -e $jaune "Send audio: $white $SONG $violet in $white $INPU_FREQ $vert Mhz " | toilet -f term -F border
 echo $date1 $date2 à $date3 > .lastaudio
-sudo src/pifmrds -freq $INPU_FREQ -audio .song/$SONG
+sudo pifmrds -freq $INPU_FREQ -audio .song/$SONG
 radio_music
 
 elif [[ $numii != $NUM ]];then
