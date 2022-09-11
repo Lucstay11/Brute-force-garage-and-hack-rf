@@ -69,9 +69,9 @@ Install the depencies
 $ cd Brute-force-garage-and-hack-rf
 $ bash install.sh
 ```
-Run the script
+Run the script! You need to use sudo for everything to work properly
 ```
-$ bash rf.sh
+$ sudo bash rf.sh
 ```
 ### For an optimal configuration use an ssh connection to connect with your phone and control the Raspberry Pi ###
 <h1 align="center">OPTIONS</h1>
