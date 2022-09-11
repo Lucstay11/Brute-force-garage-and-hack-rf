@@ -14,4 +14,4 @@ sudo apt install php -y
 sudo apt install rtl-sdr -y
 sudo apt-get install rtl-433 -y
 sudo chmod +x piopera sendiq
-echo "INSTALLING FINISH!! --> bash rf.sh"
+echo "INSTALLING FINISH!! --> sudo bash rf.sh"
