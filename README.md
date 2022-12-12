@@ -158,3 +158,6 @@ For hard work and security reasons <b> remote keys are only available on request
   <a href="https://github.com/Lucstay11" target="_blank"><img src="https://img.shields.io/badge/Github-Lucstay11-green?style=for-the-badge&logo=github"></a>
 <a href="https://discord.gg/ZGfGVmaC" target="_blank"><img src="https://img.shields.io/badge/Discord-Lucstay11-mallow?style=for-the-badge&logo=discord"></a>
 </p>
+
+### For Donation :
+<a href="https://www.paypal.me/TuesBanni" target="_blank"><img src="https://img.shields.io/badge/Discord-Lucstay11-mallow?style=for-the-badge&logo=paypal"></a>
