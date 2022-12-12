@@ -93,9 +93,10 @@ Citing well-known brands such as Hormann, Bosh, Chamberlain ...Etc
 For hard work and security reasons <b> remote keys are only available on request and at an affordable price of $15 (package includes 35 signals of 10.5 GB in size)❗</b>
 <h2>Send my an mail to receive captures from remote controls</h2>
 <p align="center">
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tues.banni@gmail.com)
-</p>
 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tues.banni@gmail.com)
+
+</p>
 <h2 align="center">Capture Signal 🔊</h2>
 
 <p align="center">
@@ -157,7 +158,9 @@ For hard work and security reasons <b> remote keys are only available on request
 <p align="left">
   <a href="https://github.com/Lucstay11" target="_blank"><img src="https://img.shields.io/badge/Github-Lucstay11-green?style=for-the-badge&logo=github"></a>
   <a href="https://discord.gg/ZGfGVmaC" target="_blank"><img src="https://img.shields.io/badge/Discord-Lucstay11-mallow?style=for-the-badge&logo=discord"></a>
+
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tues.banni@gmail.com)
+
 </p>
 
 ### For Donation :
