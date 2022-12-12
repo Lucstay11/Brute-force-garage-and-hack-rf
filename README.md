@@ -90,7 +90,7 @@ More than 30 garage brands can be brute force with my program (provided you have
 Citing well-known brands such as Hormann, Bosh, Chamberlain ...Etc
 ```
 
-For hard work and security reasons <b> remote keys are only available on request and at an affordable price of $30 (package includes 35 signals of 10.5 GB in size)❗</b>
+For hard work and security reasons <b> remote keys are only available on request and at an affordable price of $15 (package includes 35 signals of 10.5 GB in size)❗</b>
 <h2>Concact my on discord to receive captures from remote controls</h2>
 <p align="center">
 <a href="https://discord.gg/ZGfGVmaC" target="_blank"><img src="https://img.shields.io/badge/Discord-Lucstay11-mallow?style=for-the-badge&logo=discord">
