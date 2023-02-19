@@ -1,10 +1,5 @@
 echo "INSTALLING START ..."
 sudo apt-get update
-git clone https://github.com/markondej/fm_transmitter
-cd fm_transmitter
-make
-cd ..
-mv fm_transmitter .fm_transmitter
 sudo apt-get install make build-essential -y
 sudo apt-get install libraspberrypi-dev -y
 sudo apt install toilet -y
