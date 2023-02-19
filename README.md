@@ -60,10 +60,6 @@ Have fun with it!!</i>
 ```
 $ sudo git clone https://github.com/Lucstay11/Brute-force-garage-and-hack-rf/
 ```
-Give rights to all directories
-```
-$ sudo chmod -R 777 Brute-force-garage-and-hack-rf
-```
 Install the depencies
 ```
 $ cd Brute-force-garage-and-hack-rf
@@ -72,6 +68,11 @@ $ bash install.sh
 Run the script! You need to use sudo for everything to work properly
 ```
 $ sudo bash rf.sh
+```
+If you have problem with right do this
+Give rights to all directories
+```
+$ sudo chmod -R 777 Brute-force-garage-and-hack-rf
 ```
 ### For an optimal configuration use an ssh connection to connect with your phone and control the Raspberry Pi ###
 <h1 align="center">OPTIONS</h1>
