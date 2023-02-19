@@ -66,6 +66,7 @@ $ sudo git clone https://github.com/Lucstay11/Brute-force-garage-and-hack-rf/
 Install the depencies
 ```
 $ cd Brute-force-garage-and-hack-rf
+$ sudo chmod +x install.sh
 $ bash install.sh
 ```
 Run the script! You need to use sudo for everything to work properly
