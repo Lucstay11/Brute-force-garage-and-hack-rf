@@ -87,7 +87,7 @@ $ sudo chmod -R 777 Brute-force-garage-and-hack-rf
 
 <h2 align="center">Brute force Garage</h2>
 <p align="center">
-  <img src=".menu-rf.png">
+  <img src=".Bruteforce.jpg">
 </p>
 
 ```
