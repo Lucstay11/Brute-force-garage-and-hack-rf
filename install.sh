@@ -1,4 +1,6 @@
 echo "INSTALLING START ..."
+echo "--------------------"
+sudo mkdir .Capture
 sudo apt-get update
 sudo apt-get install make build-essential -y
 sudo apt-get install libraspberrypi-dev -y
@@ -10,4 +12,5 @@ sudo apt install rtl-sdr -y
 sudo apt-get install rtl-433 -y
 sudo chmod +x piopera sendiq tune fm_transmitter
 sudo chmod +x rf.sh
+echo "----------------------------------------"
 echo "INSTALLING FINISH!! --> sudo bash rf.sh"
