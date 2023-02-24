@@ -169,4 +169,4 @@ For hard work and security reasons <b> remote keys are only available on request
 </p>
 
 ### For Donation :
-<a href="https://www.paypal.me/TuesBanni" target="_blank"><img src="https://img.shields.io/badge/Paypal-mallow?style=for-the-badge&logo=paypal"></a>
+<a href="https://www.paypal.com/donate?token=Nc3XJ75T7Rrx1kcWLqpSvoANQZDq0iUvGFtsKAFNu2SriEYGTKLCGF0JT1HC_ai1CKpHCYZ9Jp41mXfy" target="_blank"><img src="https://img.shields.io/badge/Paypal-mallow?style=for-the-badge&logo=paypal"></a>
