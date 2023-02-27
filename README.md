@@ -154,10 +154,8 @@ For hard work and security reasons <b> remote keys are only available on request
 
   
   ### Special Thanks :
-
-- [**Derrow**](https://www.ifoedit.com/) <b>This project comes to me partly thanks to him go see his site I will never thank him enough for this know-how and his precious help!</b>
 - [**F50EO**](https://github.com/F5OEO/rpitx)
-- [**markondej**](https://github.com/markondej/fm_transmitter)
+
 
 ### Find Me on :
 <p align="left">
