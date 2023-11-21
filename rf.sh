@@ -224,6 +224,18 @@ fi
 echo -e $bleu
 printf  "📊 Choose the number of the remote control : " ;printf $white ;read n
 
+if [[ $n =~ ^[0-9]+$ && $n -ne 00 ]]; then
+  if [[ ! -d ".derrow" ]];then
+    echo
+    echo -e $rouge2 "For hard work and security reasons remote keys are only available on request and at an affordable price of 25$ (package includes 35 remotes of 10.5 GB in size)❗"
+    echo -e $white "Send my an mail to receive captures from remote controls: tues.banni@gmail.com"
+    echo
+    sleep 6
+    brute
+  fi
+fi
+
+
 
 case $n in
 
