@@ -2946,7 +2946,7 @@ echo -e $rouge
 printf "Enter the number of the signal you want to play: " ;printf $vert ;read num
 chiffre=$(cat -n .signal | awk '{print $1 $3}' | fgrep [$num] | cut -c 1,2 | grep -o "^[0-9]\+")
 nom=$(sed -n "$chiffre p" .signal | awk '{print $6}')
-inexistant=$(cat .signal | awk '{print $2}' | grep $num)
+inexistant=$(cat .signal | awk '{print $2}' | fgrep [$num])
 if [[ $num == "00" ]];then
 clear
 bash $0
@@ -2960,7 +2960,7 @@ printf "Enter the number of the signal you want to delete?: " ;printf $white ;re
 chiffre=$(cat -n .signal | awk '{print $1 $3}' | fgrep [$nu] | cut -c 1,2 | grep -o "^[0-9]\+")
 nom=$(sed -n "$chiffre p" .signal | awk '{print $6}')
 nomsignal=$(ls .Capture | grep $nom)
-inexistant2=$(cat .signal | awk '{print $2}' | grep $nu)
+inexistant2=$(cat .signal | awk '{print $2}' | fgrep [$nu])
 if [[ $nu != $inexistant2  ]];then
 echo -e $rouge2 "Enter a valid number!❌"
 sleep 1
@@ -2987,7 +2987,7 @@ unset nu
 database
 fi
 fi
-elif [[ $num != $inexistant ]];then
+elif [[ $(cat .signal | awk '{print $2}' | fgrep [$num] > /dev/null;echo $?) != 0 ]];then
 echo -e $rouge2 "Enter a valid number!❌"
 sleep 1
 database
