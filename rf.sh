@@ -3031,7 +3031,6 @@ fi
 }
 database
 
-
 elif [[ $numero == "4" ]];then
 brute
 
