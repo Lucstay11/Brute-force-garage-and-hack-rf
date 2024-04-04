@@ -95,7 +95,7 @@ More than 30 garage brands can be brute force with my program (provided you have
 Citing well-known brands such as Hormann, Bosh, Chamberlain ...Etc
 ```
 
-For hard work and security reasons <b> remote keys are only available on request and at an affordable price of $25 (package includes 35 remotes of 10.5 GB in size)❗</b>
+For hard work and security reasons <b> remote keys are only available on request and at an affordable price of $29 (package includes 35 remotes of 10.5 GB in size)❗</b>
 <h2>Send my an mail to receive captures from remote controls</h2>
 <p align="center">
 
