@@ -13,7 +13,7 @@ sudo apt install rtl-sdr -y
 sudo apt-get install rtl-433 -y
 
 sudo chmod +x build/build.sh
-sudo bash build/build.sh
+cd build;sudo bash build.sh;cd ../../
 sudo chmod +x piopera sendiq tune fm_transmitter
 sudo chmod +x rf.sh
 echo "----------------------------------------"
